@@ -1,5 +1,5 @@
 body {
-	background: url('BG horse.jpg') no-repeat;
+	background: url('images/bob.jpg') no-repeat;
 	background-size: cover;
 	 background-attachment: fixed;
     background-position: center;
@@ -121,3 +121,4 @@ ul li:hover ul li {
   opacity:1;
   visibility:visible;
 }
+
